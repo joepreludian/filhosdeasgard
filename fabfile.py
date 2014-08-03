@@ -10,7 +10,7 @@ env.hosts = ['trilhus@universo42.com.br']
 env.project_name = "filhosdeasgard"
 env.install_to = "/webapps/filhosdeasgard"
 env.git_repo = "https://github.com/joepreludian/filhosdeasgard.git"
-env.site_url = "filhosdeasgard.com"
+env.site_url = "filhosdeasgard.com asgard.universo42.com.br"
 env.site_port = "80"
 
 # Environment params
