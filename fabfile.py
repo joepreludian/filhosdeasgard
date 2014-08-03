@@ -107,7 +107,7 @@ def setup():
 
     clone_repo()
     create_nginx()
-    sync_bower()
+    #sync_bower()
 
     restart_services()
 
