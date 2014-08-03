@@ -114,7 +114,7 @@ def setup():
 
 def deploy():
 
-    sync_bower()
+    #sync_bower()
     create_nginx()
 
     with cd(env.install_to):
